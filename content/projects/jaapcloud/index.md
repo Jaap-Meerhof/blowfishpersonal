@@ -10,7 +10,7 @@ New article!
 {{< lead >}}
 Control your own data!
 {{< /lead >}}
-# What is the JaapCloud1.0?
+## What is the JaapCloud1.0?
 The "JaapCloud1.x" is mostly tasked with hosting my personal [Nextcloud](https://nextcloud.com/) Instance. It also hosts a discord bot on the side, and is used for testing for future projects.
 
 ### Hardware
