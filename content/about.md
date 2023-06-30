@@ -30,3 +30,4 @@ In general I'd say the most important skill I have build up is in general techni
 | SQL | DROP TABLE user ;|
 | Machine Learning | Advanced Machine Learning Experience in (Deep) Neural Networks, Reinforcement Learning, and Gradient Boosted Decision Trees | 
 | Cyber Security | My whole master -> my main experience is in **Fuzzing**, **Privacy Preserving Technologies**, **Network Security**, **Cloud Security**, **IOT security**, **Security/Privacy Law**,  **BioMetrics Security**| 
+| Linux | Both in security as in general usage |
