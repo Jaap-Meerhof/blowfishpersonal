@@ -13,6 +13,12 @@ Control your own data!
 ## What is the JaapCloud1.0?
 The "JaapCloud1.x" is mostly tasked with hosting my personal [Nextcloud](https://nextcloud.com/) Instance. It also hosts a discord bot on the side, and is used for testing for future projects.
 
+{{< gallery >}}
+  <img src="pi_closed.jpg" class="grid-w33" />
+  <img src="pi_open.jpg" class="grid-w33" />
+  <img src="featureJaapCloud.png" class="grid-w33" />
+{{< /gallery >}}
+
 ### Hardware
 * [M.2 -> USB adapter ](https://www.amazon.com/SSK-Aluminum-Enclosure-Adapter-External/dp/B07MNFH1PX/ref=sr_1_3?keywords=m.2+nvme+usb&qid=1683194236&sr=8-3)
 * Raspberry Pi 4
@@ -48,6 +54,10 @@ Features will be:
 *  **Redundancy**: as of writing this I'm not that knowledgeable on modern redundancy strategies, but from what I understand acquiring redundant parity drives should be easy with TrueNAS or UNRAID. **TODO: more research**
 * **Powerful future proof CPU**: I'm still on the hunt for the best CPU within my price range that support ECC memory. AMD seems like the best option however as Intel locks ECC memory on most of their CPU's to make more money by selling the chips as "enterprise XEON" chips.
 * **Tiered Caching**: If HDD's are still economically viable compared to M.2 drives, then I want to have some sort of tiered caching using M.2 drives to get a more responsive Nextcloud instance.
+
+<!-- ![Alt text](img/pi_closed.jpg "JaapCloud Closed")
+![Alt text](img/pi_open.jpg "JaapCloud Open") -->
+
 <!-- https://blowfish.page/docs/shortcodes/#button -->
 
 <!-- ![Alt text](image.jpg "Image caption") -->
