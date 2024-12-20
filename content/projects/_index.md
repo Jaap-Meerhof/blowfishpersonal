@@ -7,5 +7,5 @@ draft: false
 All my personal and educational projects! Scroll down to see later projects.
 
 {{< alert >}}
-**Warning!** There is quite a backlog of projects that I still have to add to this site!
+**Warning!** I need to write more of what I did in the past.
 {{< /alert >}}
